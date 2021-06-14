@@ -6,6 +6,10 @@ Document your JS code snippets and React components using jsnotenow CLI.
 
 <a href="https://github.com/jg00/proj-ts-react-jsnotenow-sg" target="_blank"><img alt="Github" src="https://user-images.githubusercontent.com/43181662/121961184-b2fb4980-cd2c-11eb-9381-87182dca0d32.mp4" title="jsnotenow"/></a>
 
+## jsnotenow on NPM
+
+<a href="https://www.npmjs.com/package/jsnotenow" target="_blank">jsnotenow on NPM</a>
+
 ## Download and install
 
 1 From the terminal navigate to a local folder where you want your notes to be stored and then run "npx jsnotenow serve".
