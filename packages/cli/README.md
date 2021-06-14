@@ -4,7 +4,7 @@ Document your code snippets using jsnotenow CLI.
 
 ## Download and install
 
-1 From the terminal navigate to a local folder where you want your notes to be stored and then "run npx jsnotenow serve".
+1 From the terminal navigate to a local folder where you want your notes to be stored and then run "npx jsnotenow serve".
 
 2 Launch your browser and navigate to http://localhost:4005
 
