@@ -1,4 +1,4 @@
-## jnotenow CLI
+## jsnotenow CLI
 
 Document your JS code snippets and React components using jsnotenow CLI.
 
